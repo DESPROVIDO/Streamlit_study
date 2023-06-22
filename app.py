@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("IMC   asadsadasd")
+st.title("IMC")
 st.write("coloca ae")
 altura = st.slider("Altura", 0.00, 2.50, value = 1.70)
 peso = st.slider("Peso", 0.00, 300.0, value = 90.0)
